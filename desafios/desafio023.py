@@ -9,3 +9,4 @@ print (f'Dezena: {d}')
 print (f'Centena: {c}')
 print(f'Milhar:{m}')
 
+#// é uma divisão inteira 
